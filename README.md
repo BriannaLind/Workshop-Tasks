@@ -45,7 +45,8 @@ Semi-Comprehensive List of Tasks Associated with Running a Successful Workshop (
 ## Day of
 * Explicitly build time into begining of meeting to foster connection (name, where live, something fun about yourself)
 * Cultivate sense of well-being and safety (build trust)
-* Be kind and intellectually generous 
+* Be kind and intellectually generous
+* Consider explicity discussing code of conduct and land acknowledgement
 * Execute plan as team; be prepared to adapt as circumstances require
 * *Virtual* 
     * Log into platform 10-15 minutes in advance to check audio quality and ability to screen share 
