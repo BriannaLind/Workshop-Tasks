@@ -39,6 +39,7 @@ Comprehensive List of Tasks Associated with Running a Successful Workshop
 * Communicate with participants following workshop: Compile workshop resources, Encourage future engagement, upcoming events
 ## Day of
 * Explicitly build time into begining of meeting to foster connection (name, where live, something fun about yourself)
+* Be kind and intellectually generous 
 * Execute plan as team; be prepared to adapt as circumstances require
 * *Virtual* 
     * Log into platform 10-15 minutes in advance to check audio quality and ability to screen share 
@@ -47,6 +48,10 @@ Comprehensive List of Tasks Associated with Running a Successful Workshop
     * Consider bringing an extra laptop 
     * Get to venue early to ensure necessary resources are present (for example plugs); If necessary resources are not present, source them
 ## Final Steps
+* (a week later) Follow up with attendees
+    * Thank for participation
+    * Compile content in email with links
+    * Keep door open for questions, contact, and future events
 * Reflect on the event as a group
 * Make a list of things that were challenging and things that went really well
 * What can/ be adjusted for next time?
