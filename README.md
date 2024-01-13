@@ -16,12 +16,17 @@ Comprehensive List of Tasks Associated with Running a Successful Workshop
 ## Plan and produce Raw Content
 * Ideate
 * Assign roles
+* Cooperatively set expectations and standards
+    * make plan to help, upskill as needed   
+* Establish touch points (when group will check in)
+* Establish 'where to work'and how to communicate questions
 * Develop content
 * Testing 
 * Peer review
 ## Event Preparation
-* Dry run as a group (1-2 weeks out)
+* Dry run as a group (2-3 weeks out)
 * Finalize agenda: This includes presenters, timing,  breaks etc.
+* Make sure needed packages are in 2i2c image/ everything runs as should
 * Use Jamboard for day of notes/questions/thoughts
     * organize to mirror agenda
     * can have page to coordinate dinner
@@ -39,6 +44,7 @@ Comprehensive List of Tasks Associated with Running a Successful Workshop
 * Communicate with participants following workshop: Compile workshop resources, Encourage future engagement, upcoming events
 ## Day of
 * Explicitly build time into begining of meeting to foster connection (name, where live, something fun about yourself)
+* Cultivate sense of well-being and safety (build trust)
 * Be kind and intellectually generous 
 * Execute plan as team; be prepared to adapt as circumstances require
 * *Virtual* 
