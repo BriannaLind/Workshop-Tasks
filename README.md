@@ -1,5 +1,5 @@
 # Workshop-Tasks
-Comprehensive List of Tasks Associated with Running a Successful Workshop
+Semi-Comprehensive List of Tasks Associated with Running a Successful Workshop (please add as you see fit!)
 
 ## First Steps
 * Understand submission timelines
