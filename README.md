@@ -22,19 +22,23 @@ Comprehensive List of Tasks Associated with Running a Successful Workshop
 ## Event Preparation
 * Dry run as a group (1-2 weeks out)
 * Finalize agenda: This includes presenters, timing,  breaks etc.
+* Use Jamboard for day of notes/questions/thoughts
+    * organize to mirror agenda
+    * can have page to coordinate dinner
 * Populate Website Template with Contents
 * Test Website is working as expected
+* Test live translation app in zoom so can have bilingual content
 ## Logistical support
 * Plan use of 2i2c compute resources
 * Plan access/login to 2i2c resources
 * Workshop Promotion: Social Media /  Newsletter 
 * Communicate with participants in advance of workshop:Include prerequisites (earthdatalogin, github),  resources,  survey
 * Plan how to handle questions:
-    *  through mentimeter? platform?
-    *  will there be a break out room for technical help
+    *  Jamboard (easy to capture for later)
     *  will people be available in the room as questions arise?
 * Communicate with participants following workshop: Compile workshop resources, Encourage future engagement, upcoming events
 ## Day of
+* Explicitly build time into begining of meeting to foster connection (name, where live, something fun about yourself)
 * Execute plan as team; be prepared to adapt as circumstances require
 * *Virtual* 
     * Log into platform 10-15 minutes in advance to check audio quality and ability to screen share 
