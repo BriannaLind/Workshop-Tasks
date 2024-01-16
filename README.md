@@ -1,19 +1,26 @@
 # Workshop-Tasks
 Semi-Comprehensive List of Tasks Associated with Running a Successful Workshop (please add as you see fit!)
 
-## First Steps
+## Goal: 
+Provide a cohesive and well-structured learning experience for workshop attendees *and* learn from eachother and have fun! (helps to have cooperation, and ability to work-ahead to share with group)
+
+
+---
+
+
+### First Steps
 * Understand submission timelines
 * Have enough lead time to put together a good plan
 * Understand size of audience 
 * Make new repo if needed
 * Order swag if needed
-## Develop Proposal
+### Develop Proposal
 * Ideate
 * Source Collaborators
 * Write draft
 * Review Draft
 * Submit (may require membership)
-## Plan and produce Raw Content
+### Plan and produce Raw Content
 * Ideate
 * Assign roles
 * Cooperatively set expectations and standards
@@ -33,7 +40,7 @@ Semi-Comprehensive List of Tasks Associated with Running a Successful Workshop (
 * Populate Website Template with Contents
 * Test Website is working as expected
 * Test live translation app in zoom so can have bilingual content
-## Logistical support
+### Logistical support
 * Plan use of 2i2c compute resources
 * Plan access/login to 2i2c resources
 * Workshop Promotion: Social Media /  Newsletter 
@@ -42,7 +49,7 @@ Semi-Comprehensive List of Tasks Associated with Running a Successful Workshop (
     *  Jamboard (easy to capture for later)
     *  will people be available in the room as questions arise?
 * Communicate with participants following workshop: Compile workshop resources, Encourage future engagement, upcoming events
-## Day of
+### Day of
 * Explicitly build time into begining of meeting to foster connection (name, where live, something fun about yourself)
 * Cultivate sense of well-being and safety (build trust)
 * Be kind and intellectually generous
@@ -54,7 +61,7 @@ Semi-Comprehensive List of Tasks Associated with Running a Successful Workshop (
     * Bring full range of cords/ adapters that could be needed
     * Consider bringing an extra laptop 
     * Get to venue early to ensure necessary resources are present (for example plugs); If necessary resources are not present, source them
-## Final Steps
+### Final Steps
 * (a week later) Follow up with attendees
     * Thank for participation
     * Compile content in email with links
