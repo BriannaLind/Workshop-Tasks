@@ -10,6 +10,7 @@ Provide a cohesive and well-structured learning experience for workshop attendee
 
 ### First Steps
 * Understand submission timelines
+* Understand 'manpower' needed to execute concept
 * Have enough lead time to put together a good plan
 * Understand size of audience 
 * Make new repo if needed
@@ -24,7 +25,8 @@ Provide a cohesive and well-structured learning experience for workshop attendee
 * Ideate
 * Assign roles
 * Cooperatively set expectations and standards
-    * make plan to help, upskill as needed   
+    * make plan to help, upskill as needed
+    * make sure have the tools, resources, skills needed 
 * Establish touch points (when group will check in)
 * Establish 'where to work'and how to communicate questions
 * Develop content
