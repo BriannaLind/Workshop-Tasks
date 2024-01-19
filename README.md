@@ -32,7 +32,7 @@ Provide a cohesive and well-structured learning experience for workshop attendee
 * Develop content
 * Testing 
 * Peer review
-## Event Preparation
+### Event Preparation
 * Dry run as a group (2-3 weeks out)
 * Finalize agenda: This includes presenters, timing,  breaks etc.
 * Make sure needed packages are in 2i2c image/ everything runs as should
